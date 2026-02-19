@@ -1,0 +1,14 @@
+img {
+    max-width: 500px;
+    height: auto;
+}
+
+video {
+    width: 500px;
+    height: auto;
+}
+
+audio {
+    display: block;
+    margin-top: 15px;
+}
